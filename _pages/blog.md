@@ -5,4 +5,8 @@ permalink: /blog/
 author_profile: true
 ---
 
-Coming soon!
+{% include base_path %}
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
