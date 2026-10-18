@@ -10,3 +10,7 @@ redirect_from:
 Hi! I'm Kushaal. I'm a 3rd year undergraduate student majoring in Electronics and Communication Engineering (ECE) at the Indian Institute of Technology Bhilai (IIT Bhilai).
 
 My interests lie across Machine Learning, Applied Physics, Nuclear Fusion, Statistical methods and Astrophysics. In particular, I'm very passionate about using cutting-edge techniques in machine learning, statistics and computational simulations to solve complex problems, such as those in nuclear fusion, applied physics, and astrophysics.
+
+## Announcements
+
+* **October 2026:** My paper on learning 2D magnetic reconnection with a Physics Informed Neural Operator (PINO) is now on [arXiv](https://arxiv.org/abs/2609.29514)! Read more in the [blog post](/blog/pino-magnetic-reconnection-arxiv/).
